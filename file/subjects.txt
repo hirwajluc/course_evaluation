@@ -1,0 +1,32 @@
+Electrical Network Analysis	1	1	1	1	23
+Electrical Network Analysis	1	1	2	1	23
+Fluid Mechanics & Pumping System	2	1	1	1	24
+Fluid Mechanics & Pumping System	2	1	2	1	24
+Fluid Mechanics & Pumping System	2	1	3	1	24
+Power Electronics	2	1	1	1	25
+Power Electronics	2	1	2	1	25
+Power Electronics	2	1	3	1	25
+Direct Current Machines	2	1	1	1	26
+Direct Current Machines	2	1	2	1	26
+Direct Current Machines	2	1	3	1	26
+Welding Technology	2	1	1	1	27
+Welding Technology	2	1	2	1	27
+Welding Technology	2	1	3	1	27
+Solar Power Plant Operation	2	1	1	1	28
+Solar Power Plant Operation	2	1	2	1	28
+Solar Power Plant Operation	2	1	3	1	28
+Hydropower Plant Fundamentals	2	1	1	1	29
+Hydropower Plant Fundamentals	2	1	2	1	29
+Hydropower Plant Fundamentals	2	1	3	1	29
+Engineering Drawing	3	1	1	1	30
+Engineering Drawing	3	1	2	1	30
+AC Machines Rewinding	3	1	1	1	31
+AC Machines Rewinding	3	1	2	1	31
+Design of Pico-Hydropower Plant	3	1	1	1	32
+Design of Pico-Hydropower Plant	3	1	2	1	32
+Peat Harvesting	3	1	1	1	33
+Peat Harvesting	3	1	2	1	33
+Methane Gas Power Plant Operation	3	1	1	1	33
+Methane Gas Power Plant Operation	3	1	2	1	33
+Machine Tools	3	1	1	1	34
+Machine Tools	3	1	2	1	34

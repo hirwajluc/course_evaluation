@@ -1,0 +1,51 @@
+		Year	Semester	Group	Department	Teacher						
+1	Analogue and Digital Communication	2	1	1	2	16						
+2	Analogue Electronics	1	1	1	2	16						
+3	Internet of Things (IoT)	3	1		2	17						
+4	Computer Networking	3	1		2	19						
+5	Electromagnetism	2	1		2	18						
+6	Basic Electronics and Electrical installation	1	1		2	18						
+7	Mobile and Satellite Communication	3	1		2	22						
+8	Basic Electronics and Electrical installation	1	1		2	18						
+9	Antenna and Wave Propagation	2	1		2	20						
+10	Analogue Electronics	1	1		2	20						
+11	Linear Integrated Circuit	2	1		2	21						
+12	Electrical Network Analysis	1	1		2	22						
+												
+	Cyber Security	3	1		3	1						
+	Mobile Application Technologies	3	1		3	2						
+	Internet of Things (IoT)	3	1		3	3						
+	Multimedia and Animation	3	1		3	4						
+	Fundermentals of PHP Programming	2	1		3	5						
+	Oracle Database	2	1		3	6						
+	Oracle Database	2	1		3	7						
+	Windows Server Administration	2	1		3	8						
+	Software development Methodology	2	1		3	9						
+	Fundamentals of computer Networking	2	1		3	10						
+	Fundamentals of computer Networking	2	1		3	11						
+	Computer Basics	1	1		3	12						
+	Computer Basics	1	1		3	13						
+	Computer Basics	1	1		3	14						
+	Basic Electronics and Electrical Installation	1	1		3	18						
+	Fundamentals of Engineering Mathematics	1	1		3							
+	Intenive English	1	1		3							
+	Enterpreneurship and Engineering Ethics	1	1		3	15						
+												
+	15			Ass/Lecturer								
+	16			Ass/Lecturer								
+	17			Ass/Lecturer								
+												
+												
+												
+	Fundamentals of Engineering Mathematics	1	1	1	2	41			"ITT &ETT,REN"		1	
+	Fundamentals of Engineering Mathematics	1	1	2	2	41						
+	Fundamentals of Engineering Mathematics	1	1	1	3	39						
+	Fundamentals of Engineering Mathematics	1	1	2	3	39						
+	Fundamentals of Engineering Mathematics	1	1	1	1	38						
+	Fundamentals of Engineering Mathematics	1	1	2	1	38			"ITT &ETT,REN"		1	
+	Intenive English	1	1	1	2	40			"ITT &ETT,REN"		1	
+	Intenive English	1	1	2	2	40			"ITT &ETT,REN"		1	
+	Intenive English	1	1	1	3	36						
+	Intenive English	1	1	2	3	36						
+	Intenive English	1	1	1	1	37						
+	Intenive English	1	1	2	1	37						

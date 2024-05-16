@@ -1,0 +1,12 @@
+Fundamentals of Engineering Mathematics	1	1	1	2	41
+Fundamentals of Engineering Mathematics	1	1	2	2	41
+Fundamentals of Engineering Mathematics	1	1	1	3	39
+Fundamentals of Engineering Mathematics	1	1	2	3	39
+Fundamentals of Engineering Mathematics	1	1	1	1	38
+Fundamentals of Engineering Mathematics	1	1	2	1	38
+Intenive English	1	1	1	2	40
+Intenive English	1	1	2	2	40
+Intenive English	1	1	1	3	36
+Intenive English	1	1	2	3	36
+Intenive English	1	1	1	1	37
+Intenive English	1	1	2	1	37
